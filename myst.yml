@@ -17,6 +17,13 @@ project:
         - file: setting_up_my_mac/installing_package_manager.md        
         - file: setting_up_my_mac/setting_up_my_terminal.md
         - file: setting_up_my_mac/downloading_softwares.md
+    - title: Modusa
+      children:
+        - file: modusa/quickstart.ipynb
+    - title: Applied Linear Algebra
+      children:
+        - file: applied_linear_algebra/introduction.ipynb
+        - file: applied_linear_algebra/vectors.ipynb
     
 site:
   template: book-theme

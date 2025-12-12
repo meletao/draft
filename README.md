@@ -6,3 +6,4 @@ A staging area for ideas and content before they are moved to one of the followi
 3. [/machinelearning](https://meletao.github.io/machinelearning)
 4. [/deeplearning](https://meletao.github.io/deeplearning)
 5. [/audiodsp](https://meletao.github.io/audiodsp)
+6. [/howto](https://meletao.github.io/howto)

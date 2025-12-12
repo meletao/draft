@@ -3,7 +3,7 @@ version: 1
 project:
   id: 348e98dc-2f87-40e8-9049-a1dbd97bd049
   title: Draft
-  description: This is where I jot down my thoughts.
+  description: A staging area for ideas and content.
   # keywords: []
   authors: [Ankit Anand]
   github: https://github.com/meletao/draft
@@ -17,6 +17,10 @@ project:
         - file: setting_up_my_mac/installing_package_manager.md        
         - file: setting_up_my_mac/setting_up_my_terminal.md
         - file: setting_up_my_mac/downloading_softwares.md
+    - title: Creating Myst Project
+      children:
+        - file: creating_myst_project/introduction.ipynb
+        - file: creating_myst_project/setup.ipynb
     - title: Modusa
       children:
         - file: modusa/quickstart.ipynb

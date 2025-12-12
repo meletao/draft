@@ -24,6 +24,9 @@ project:
       children:
         - file: applied_linear_algebra/introduction.ipynb
         - file: applied_linear_algebra/vectors.ipynb
+    - title: Non-negative Matrix Factorization
+      children:
+        - file: nmf/introduction.ipynb
     
 site:
   template: book-theme

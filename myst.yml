@@ -20,8 +20,7 @@ project:
     - title: Creating Myst Project
       children:
         - file: creating_myst_project/introduction.ipynb
-        - file: creating_myst_project/initialization.ipynb
-        - file: creating_myst_project/deployment.ipynb
+        - file: creating_myst_project/quickstart.ipynb
     - title: Modusa
       children:
         - file: modusa/quickstart.ipynb

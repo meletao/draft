@@ -28,8 +28,7 @@ project:
 site:
   template: book-theme
   options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    favicon: https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logo/meluron/favicon.ico
     logo: https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logo/meluron/meluron-logo-wbg.png
   parts:
     primary_sidebar_footer: ""

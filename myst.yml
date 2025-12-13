@@ -25,6 +25,9 @@ project:
     - title: Non-negative Matrix Factorization
       children:
         - file: nmf/introduction.ipynb
+    - title: Tensor
+      children:
+        - file: tensor/tensor.ipynb
     
 site:
   template: book-theme
